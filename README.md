@@ -1,1 +1,2 @@
-#Grundlagen Interaktiver Systeme - SS2020
+#Grundlagen Interaktiver Systeme 
+SS2020
